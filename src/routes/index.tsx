@@ -85,7 +85,7 @@ function Index() {
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/40 to-transparent" />
         <div className="relative mx-auto flex min-h-screen max-w-6xl flex-col justify-end px-5 pb-20">
           <p className="mb-4 text-sm uppercase tracking-[0.3em] text-accent">Ведущий · Комик · Калининград</p>
-          <h1 className="font-display text-5xl font-bold uppercase leading-[0.95] md:text-8xl">Стильно.<br />Смешно.<br /><span className="text-accent">Легко.</span></h1>
+          <h1 className="font-display text-4xl font-bold uppercase leading-[1] md:text-6xl">Стильно<br />Смешно<br /><span className="text-accent">Легко</span></h1>
           <div className="mt-8 flex flex-wrap gap-3">
             <Btn href="#contacts">Обсудить событие</Btn>
             <Btn href={HUMOR} ghost>Как я шучу ▶</Btn>
