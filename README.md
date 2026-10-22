@@ -6,7 +6,7 @@ This project was built with [Lovable](https://lovable.dev).
 
 **Live app**: https://stage-stories-host.lovable.app
 
-## Build with Lovable
+## Build with Lovable 
 
 Continue developing this project in the [Lovable editor](https://lovable.dev/projects/61e68ff5-fc2d-41ce-98dc-37f30f31de6e).
 
