@@ -31,13 +31,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Install dependencies
-        run: npm install --no-audit --no-fund
+        run: bun install
 
       - name: Build
-        run: npm run build
+        run: bun run build
 
       - name: Check build output
         run: |
