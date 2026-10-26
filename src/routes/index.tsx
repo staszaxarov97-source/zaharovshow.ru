@@ -11,6 +11,7 @@ import e5 from "@/assets/event5.asset.json";
 import e6 from "@/assets/event6.asset.json";
 import e7 from "@/assets/event7.asset.json";
 import e8 from "@/assets/event8.asset.json";
+import e9 from "@/assets/event9.asset.json";
 import p1 from "@/assets/poster1.asset.json";
 import p2 from "@/assets/poster2.asset.json";
 import p3 from "@/assets/poster3.asset.json";
@@ -46,7 +47,7 @@ const projects = [
   { name: "Битва за время", note: "ВК · с 25:30", url: "https://vkvideo.ru/video-220754053_456242163?t=5s" },
 ];
 
-const events = [e1, e2, e3, e4, e5, e6, e7, e8];
+const events = [e1, e2, e3, e4, e5, e6, e7, e8, e9];
 const posters = [p1, p2, p3, p4, p5, p6, p7, p8, p9];
 
 const reviews = [
